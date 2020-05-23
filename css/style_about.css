@@ -1,0 +1,46 @@
+body {
+    margin: 0;
+    font-size: 21px;
+}
+
+/* Tipography */
+h1 {
+    font-size: 48px;
+}
+h2 {
+    font-size: 36px;
+}
+h3 {
+    font-size: 28px;
+}
+
+/* Layout */
+header {
+    background-color: darkcyan;
+    color: #fff;
+    padding: 15px 0;
+    text-align: center;
+}
+
+.intro {
+    text-align: center;
+    color: darkslategray;
+    width: 800px;
+    margin: 100px auto;
+    border: groove lightsteelblue 10px;
+}
+
+.my-skills {
+    text-align: center;
+    background-color: darkslategrey;
+    color: #fff;
+    padding: 15px 0;
+}
+
+.columns {
+    display: flex;
+}
+
+.column {
+    margin: 0 30px;
+}
